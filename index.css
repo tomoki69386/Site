@@ -1,40 +1,76 @@
-.hare{
-    width: 1255px;
-    height: 594px;
-    background-image: url(image/hare.JPG);
+body{
+    background-color: #58ACFA;
+}
+
+.center{
     margin: auto;
 }
 
-.SNS{
-    width: 450px;
-    margin-right: auto;
-    margin-left: auto;
+.container[data-v-2a183b29]{
+    margin: 0 auto;
+    max-width: 375px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background-color: #FFF;
+    height: 100%;
+    border: solid;
+    border-width: 3px;
+    border-color: #58acfa;
+    border-radius: 20px
+    
 }
 
-.body{
-    background-color: antiquewhite;
+.content {
+    text-align: center;
+    max-width: 60%;
+    margin: auto;
+    padding: 25px;
 }
 
-.Tweet{
-    width: 47.5%;
-    margin-top: 30px;
-    float: left;
+.my-photo{
+    border-radius: 50%;
+    margin: 30px;
+    border: solid;
+    border-width: 3px;
+    border-color: #58ACFA;
 }
 
-.syakuhati{
-    margin-right: 30px;
-    margin-top: 30px;
-    float: right;
+.content h1{
+    margin: 0;
 }
 
-.Instagram_left{
-    margin-top: 10px;
-    width: 50%;
-    float: left;
+.links{
+    margin-top: 60px;
+    background-color: white;
+    padding-bottom: 20px;
+    border: solid;
+    border-width: 3px;
+    border-color: #58acfa;
+    border-radius: 20px;
+    margin-bottom: 50px;
 }
 
-.Instagram_right{
-    margin-top: 10px;
-    width: 50%;
-    float: right;
+.sills{
+    margin-bottom: 50px;
+    border: solid;
+    border-width: 3px;
+    border-color: #58acfa;
+    border-radius: 20px
+}
+
+.art{
+    margin-bottom: 50px;
+    border: solid;
+    border-width: 3px;
+    border-color: #58acfa;
+    border-radius: 20px;
 }
