@@ -44,7 +44,8 @@ body{
 }
 
 .social {
-    margin-top: 16px;    
+    margin-top: 16px;   
+    text-align: center;
 }
 
 .job-content {
