@@ -8,7 +8,7 @@ UserInterfaceStyleをアプリ内で変更する方法をメモしておきま�
 
 こんな感じのやつ
 
-
+![demo](./images/demo.gif)
 
 ## コード
 
