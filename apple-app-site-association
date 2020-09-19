@@ -1,0 +1,14 @@
+{
+    "appclips": {
+        "apps": [ "com.tomoki-sun.app.ios.multi-calculator.Clip" ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "com.tomoki-sun.app.ios.multi-calculator",
+                "paths": [ "/multi-calculator" ]
+            }
+        ]
+    }
+}
