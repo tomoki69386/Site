@@ -1,6 +1,6 @@
 {
     "appclips": {
-        "apps": [ "com.tomoki-sun.app.ios.multi-calculator.Clip" ]
+        "apps": [ "com.tomoki-sun.app.ios.multi-calculator.AppClips" ]
     },
     "applinks": {
         "apps": [],
